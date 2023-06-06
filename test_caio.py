@@ -10,7 +10,8 @@ while True:
     print('3 - Sair do sistema')
     print()
     valor_opcao = input('Digite o número de qual opção você deseja: ')
-
+    
+    
     if valor_opcao == '1':
         usuario = input('Cadastre seu usuário: ')
         senha = input('Cadastre sua senha: ')
